@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 import mobil1 from "../assets/mobil1.webp";
 import mobil2 from "../assets/mobil2.png";
